@@ -1,0 +1,1 @@
+so = int(input("Nhập số nguyên coi!:"))
